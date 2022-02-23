@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "ioimr-backend/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
